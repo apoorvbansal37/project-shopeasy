@@ -22,8 +22,7 @@
     "exactOptionalPropertyTypes": true
   },
   "include": [
-    "src/**/*",
-    "../shared/**/*"
+    "src/**/*"
   ],
   "exclude": [
     "node_modules",
